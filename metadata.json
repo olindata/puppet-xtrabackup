@@ -1,0 +1,16 @@
+{
+  "name": "tribily-xtrabackup",
+  "author": "Walter Heck",
+  "description": "",
+  "license": "GPL v2",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "1.0",
+  "checksums": {
+    "Modulefile": "7b09f78c1e5b1b9e6c97600362f9da85",
+    "README": "881fbd76cc4db7dc0fb3f9283e72bd69",
+    "manifests/init.pp": "2c17da5833c15c8b67b7df55c73edf2b"
+  },
+  "dependencies": []
+}
