@@ -1,0 +1,19 @@
+1.1.1
+===
+2012-02-04 05:05:34 +0200 - Walter Heck <walter@tribily.com>
+(53af796) Remove require on the class 
+
+1.1
+===
+2012-02-04 04:51:51 +0200 - Walter Heck <walter@tribily.com>
+(88ca4ef) Remove hyphen in classnames, they are not officially supported 
+
+1.0
+===
+2011-12-08 14:12:20 +0200 - Walter Heck <walter@tribily.com>
+(4b87f2a) Ignoring geppetto project file 
+
+0.1
+===
+2011-12-08 02:33:23 +0200 - Walter Heck <walter@tribily.com>
+(67c42aa) First version of xtrabackup module 
