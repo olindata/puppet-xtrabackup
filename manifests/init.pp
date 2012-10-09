@@ -19,7 +19,7 @@
 # (end)
 
 class xtrabackup {
-  include apt::repo::percona
+  include s_apt::percona
 
   package { "xtrabackup":
     ensure  => "present",
